@@ -1,1 +1,3 @@
 ádfadf
+
+git config --global alias.pushom '!git push origin master -m'
